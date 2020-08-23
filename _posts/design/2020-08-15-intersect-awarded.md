@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "NTERSECT Awarded!"
+title:  "INTERSECT Awarded!"
 teaser: "NSF funds INTERSECT for 3 year project cycle"
 categories:
     - announcement
