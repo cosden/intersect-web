@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: /contact/
-  text: Singup for updates ›
+  text: Signup for updates ›
   style: alert
 permalink: /index.html
 #
