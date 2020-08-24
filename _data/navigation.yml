@@ -1,10 +1,15 @@
 - title: INTERSECT
   url: "/"
   side: left
-
-- title: Overview
-  url: "/overview/"
+  
+- title: "About"
+  url: "/about/"
   side: left
+  dropdown:
+   - title: "Project Overview"
+     url: "/overview/"
+  - title: "Team"
+     url: "/team/"
   
 - title: Workshops
   url: "/workshops/"
@@ -92,6 +97,4 @@
   url: "/contact/"
   side: right
   
-- title: "About"
-  url: "/about/"
-  side: right
+
