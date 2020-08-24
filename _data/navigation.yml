@@ -8,7 +8,7 @@
   dropdown:
    - title: "Project Overview"
      url: "/overview/"
-  - title: "Team"
+   - title: "Team"
      url: "/team/"
   
 - title: Workshops
