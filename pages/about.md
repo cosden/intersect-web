@@ -5,5 +5,6 @@ meta_title: "INTERSECT Project"
 permalink: "/about/"
 ---
 
-Project Info Here
+Read more about the project [here](/overview).
 
+Read more about the project team [here](/team). 
