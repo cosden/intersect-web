@@ -35,4 +35,4 @@ These workshops will connect RSE practitioner-instructors from across the countr
 [^1]: G Wilson. Software carpentry: lessons learned. F1000Research, 3(62), 2016.
 
 [^2]: U. Nangia and  D.S. Katz. Track 1 Paper: Surveying the US National Postdoctoral Association Regarding Software Use and Training in Research.
-In Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1), 2017.
+     In Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1), 2017.
