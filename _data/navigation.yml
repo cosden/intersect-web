@@ -1,7 +1,7 @@
 - title: INTERSECT
   url: "/"
   side: left
-  
+
 - title: "About"
   url: "/about/"
   side: left
@@ -10,14 +10,15 @@
      url: "/overview/"
    - title: "Team"
      url: "/team/"
-  
-- title: Workshops
-  url: "/workshops/"
+
+- title: "Events"
+  url: "/"
   side: left
-  
-- title: Bootcamps
-  url: "/bootcamps/"
-  side: left
+  dropdown:
+    - title: "Workshops"
+      url: "/workshops/"
+    - title: Bootcamps
+      url: "/bootcamps/"
 
 - title: Training Material
   url: "/training-material/"
@@ -96,5 +97,3 @@
 - title: "Contact"
   url: "/contact/"
   side: right
-  
-
