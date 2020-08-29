@@ -14,7 +14,10 @@ title: 'INTERSECT'
 slogan: 'Research Software Engineering Training'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»INTERSECT« is an NSF funded proect entitled "INovative Training Enabled by a Research Software Engineering Community of Trainers."'
+description: 'INTERSECT is an NSF funded proect entitled "INovative Training Enabled by a Research Software Engineering Community of Trainers"'
+
+# Content licesnse to show in footer
+license: 'Content on this site, except where indicated otherwise, is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license</a>.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -31,7 +34,7 @@ baseurl: '/intersect-web'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: 
+improve_content:
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -267,7 +270,7 @@ sass:
 
 asciidoctor-enabled: false
 asciidoctor:
-  description: 
+  description:
   attributes:
     source-highlighter: coderay
     coderay-css: style
