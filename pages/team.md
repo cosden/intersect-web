@@ -7,17 +7,8 @@ header:
 ---
 
 
-## Advisory Board
-
-* Need to check with everyone first
-* Names will go here
-* And affiliations
-* And links to page is needed
-* Could upgrade to pictures later
-* Not necessary for first round
-
 
 ## Project Leaders
 
-* Ian Cosden, Prinecton University
+* Ian Cosden, Princeton University
 * Jeffrey Carver, University of Alabama
