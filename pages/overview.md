@@ -23,7 +23,7 @@ Despite this reliance, over half (54%) of the respondents who were using this so
 in Research. Results exclude the 5% of respondents who reported they did not use research software]({{ site.urlimg }}software-survey.png)
 
 There exists a need to train researchers at later stages of their career in more advanced topics to not only make them more productive, but to make the software they create more sustainable.
-Or, to continue the analogy, once they know how to walk, they need to learn how to run.
+Or, to continue the analogy, once they know how to walk, they need to learn how to *run*.
 
 Therefore, to address this knowledge and skill gap, we are introducing INnovative Training Enabled by a Research Software Engineering Community of Trainers (INTERSECT), which will bring software development and engineering training to intermediate and advanced developers of research software.
 INTERSECT will provide expert-led training courses and workshops focused on building a pipeline of computational researchers trained in best practices for research software development.
