@@ -7,7 +7,7 @@ This is the repository containing the webpages for the INTERSECT project.
 
 The INTERSECT website encourages community contributions consistent with our goals and code of conduct.
 
-To suggest a change, fork the repository and make your proposed changes. 
+To suggest a change, fork the repository and make your proposed changes.
 Then test locally (see below) to ensure your changes are behaving as anticipated.
 If it's a very minor change (a typo, one line addition) a local preview may not be necessary, but for all other modifications, it's strongly encouraged to test locally before submitting a pull request.
 After previewing and confirming things look good create a pull request against `gh-pages`.
@@ -43,5 +43,5 @@ This project is supported by National Science Foundation awards [2017424](https:
 
 
 ### Contacts
-Ian A. Cosden, Prinecton University  
+Ian A. Cosden, Princeton University  
 Jeffrey Carver, University of Alabama
