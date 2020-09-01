@@ -12,6 +12,10 @@ Then test locally (see below) to ensure your changes are behaving as anticipated
 If it's a very minor change (a typo, one line addition) a local preview may not be necessary, but for all other modifications, it's strongly encouraged to test locally before submitting a pull request.
 After previewing and confirming things look good create a pull request against `gh-pages`.
 
+#### Adding authorship
+
+Posts should include the `author:` field using the name defined by an entry in the '_data/authors.yml' 
+
 #### Build and Preview locally
 
 To build and preview the site locally, you'll need to [install jekyll](https://jekyllrb.com/docs/installation/)
@@ -37,7 +41,7 @@ Note the
 If you are having trouble with your local preview try `rm -rf _site`, followed by `bundle update`, then `bundle exec jekyll serve`.
 
 ## Funding
-This project is supported by National Science Foundation awards [2017424](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017424&HistoricalAwards=false) and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259&HistoricalAwards=false). Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.This effort is funded by NSF awards
+This project is supported by National Science Foundation awards [2017424](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017424&HistoricalAwards=false) and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259&HistoricalAwards=false). Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
 
 ![](https://i.imgur.com/9qujX6H.png)
 
