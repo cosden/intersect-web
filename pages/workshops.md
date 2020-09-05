@@ -5,7 +5,6 @@ title: "RSE Workshops"
 subheadline: "Developing the RSE curriculum of the future"
 teaser: "Bringing together RSEs to develop and refine training material"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/workshops/"
 ---
 
@@ -14,7 +13,7 @@ RSEs are uniquely qualified for this task because, as daily practitioners of res
 Additionally, as members of the research community they posses the proper context by which to frame the training material.
 
 INTERSECT will sponsor and organize workshops comprised of professional RSEs.
-The purpose of these workshop is two fold. The first and primary objective is to collaboratively generate the training topics and content for the RSE Bootcamps (described next). 
+The purpose of these workshop is two fold. The first and primary objective is to collaboratively generate the training topics and content for the RSE Bootcamps (described next).
 The second objective is to foster collaboration and nurture RSE peer relationships
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/participate/">Find out how to participate ›</a>

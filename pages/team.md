@@ -3,7 +3,6 @@ layout: page
 title: "INTERSECT Team"
 permalink: "/team/"
 header:
-    image_fullwidth: "header_drop.jpg"
 ---
 
 

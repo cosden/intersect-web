@@ -5,7 +5,6 @@ title: "Research Software Engineering Training Material"
 subheadline: "Contribute to the open-source curriculum"
 teaser:
 header:
-   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/training-material/"
 ---
 

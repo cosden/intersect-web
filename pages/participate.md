@@ -5,7 +5,7 @@ title: "Participate"
 subheadline: "Signup to participate in an INTERSECT event"
 teaser: "There are multiple ways to contribute to the project or participate in an INTERSECT sponsored event"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   #image_fullwidth: "header_homepage_13.jpg"
 permalink: "/participate/"
 ---
 

@@ -4,7 +4,6 @@ show_meta: false
 title: "Research Software Engineering Bootcamps"
 subheadline: "Week-long intensive Training in Research Software Engineering"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/bootcamps/"
 ---
 

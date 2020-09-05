@@ -3,7 +3,6 @@ layout: page
 title: "Overview"
 subheadline: "INTERSECT Project Summary"
 header:
-   image_fullwidth: "header_roadmap_3.jpg"
 permalink: "/overview/"
 ---
 
