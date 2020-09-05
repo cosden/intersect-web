@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Training Material"
   url: /training-material
-  image: widget-github-303x182.jpg
+  image: widget-github-larger.jpg
   text: 'Curated training material will be available and open-source for the community to use locally and suggest changes'
 #
 # Use the call for action to show a button on the frontpage
