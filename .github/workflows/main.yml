@@ -1,0 +1,45 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the gh-pages branch
+on:
+  push:
+    branches: [ gh-pages ]
+  pull_request:
+    branches: [ gh-pages ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      #    # Firstly, let's check-out our code.
+    - name: Checkout Code
+      uses: actions/checkout@gh-pages
+
+    # Now let's configure this environment to support NodeJS tooling.
+    - uses: actions/setup-node@gh-pages
+
+    # Now run an npm install...
+    - name: Install Dependencies
+      run: npm install
+
+    # Run the build-script, which is a package.json script in this case.
+    - name: Build
+      run: npm run build
+      env:
+        CI: true # This is done to prevent output being too verbose.
+
+    # Use Github's upload-artifact action to upload our hopefully-successful build!
+    # We only want the `public` folder here which contains our (optimised) static site.
+    - name: Save Build Artifact
+      uses: actions/upload-artifact@v1
+      with:
+        name: site-artifact # A unique key (and name) for the artifact in question.
+        path: public        # This is what we'd like to keep, we want `public` but any file/folder works
